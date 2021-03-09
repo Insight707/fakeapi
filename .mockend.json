@@ -1,5 +1,5 @@
 {
-  "orderCreate": {
+  "order": {
     "tableNumber": "int",
     "restId": "int",
     "customerId": "int",
