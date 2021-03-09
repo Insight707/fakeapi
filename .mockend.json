@@ -7,6 +7,7 @@
   },
   "OrderProductCreate": {
     "productId": "int",
-    "count": "int"
+    "count": "int",
+    "o": "OrderCreate"
   }
 }
