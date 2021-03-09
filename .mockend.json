@@ -3,5 +3,9 @@
     "tableNumber": "int",
     "restId": "int",
     "customerId": "int"
+  },
+  "OrderProductCreate": {
+    "productId": "int",
+    "count": "int"
   }
 }
