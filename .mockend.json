@@ -1,13 +1,12 @@
 {
-  "OrderCreate": {
+  "orderCreate": {
     "tableNumber": "int",
     "restId": "int",
     "customerId": "int",
-    "products": "OrderProductCreate[]"
+    "products": "orderProductCreate[]"
   },
-  "OrderProductCreate": {
+  "orderProductCreate": {
     "productId": "int",
     "count": "int",
-    "o": "OrderCreate"
   }
 }
